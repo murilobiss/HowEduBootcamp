@@ -7,7 +7,7 @@ client = boto3.client('firehose')
 def put_record(event):
     data = json.dumps(event) + "\n"
     response = client.put_record(
-        DeliveryStreamName='PUT-S3-gZSeH',
+        DeliveryStreamName='******',
         Record={"Data": data}
     )
     print(event)
