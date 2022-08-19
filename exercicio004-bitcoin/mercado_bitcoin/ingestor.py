@@ -1,7 +1,7 @@
 import datetime
 from abc import ABC, abstractmethod
 from typing import List
-from apis import DaySummaryApi
+from mercado_bitcoin.apis import DaySummaryApi
 
 class DataIngestor(ABC):
     def __init__(self, writer, coins: List[str], default_start_date: datetime.date) -> None:
