@@ -9,9 +9,9 @@ O projeto ainda está em desenvolvimento e as próximas atualizações serão vo
 - [x] Módulo 01 - Fundamentos da Engenharia de Dados
 - [x] Módulo 02 - Fundamentos da Ingestão de Dados
 - [x] Módulo 03 - SQL
-- [ ] Módulo 04 - Capturando Dados de uma API
-- [ ] Módulo 05 - Capturando Dados com Crawlers
-- [ ] Módulo 06 - Testes + Jenkins
+- [x] Módulo 04 - Capturando Dados de uma API
+- [x] Módulo 05 - Capturando Dados com Crawlers
+- [x] Módulo 06 - Testes + Jenkins
 - [ ] Módulo 07 - Git + GitHub
 - [ ] Módulo 08 - Introdução à AWS
 - [ ] Módulo 09 - Integração Contínua
