@@ -12,7 +12,7 @@ O projeto ainda está em desenvolvimento e as próximas atualizações serão vo
 - [x] Módulo 04 - Capturando Dados de uma API
 - [x] Módulo 05 - Capturando Dados com Crawlers
 - [x] Módulo 06 - Testes + Jenkins
-- [ ] Módulo 07 - Git + GitHub
+- [x] Módulo 07 - Git + GitHub
 - [ ] Módulo 08 - Introdução à AWS
 - [ ] Módulo 09 - Integração Contínua
 - [ ] Módulo 10 - Integração Contínua
