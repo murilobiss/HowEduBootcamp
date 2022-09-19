@@ -13,11 +13,10 @@ O projeto ainda está em desenvolvimento e as próximas atualizações serão vo
 - [x] Módulo 05 - Capturando Dados com Crawlers
 - [x] Módulo 06 - Testes + Jenkins
 - [x] Módulo 07 - Git + GitHub
-- [ ] Módulo 08 - Introdução à AWS
-- [ ] Módulo 09 - Integração Contínua
-- [ ] Módulo 10 - Integração Contínua
-- [ ] Módulo 11 - Data Lakes
-- [ ] Módulo 12 - AWS Glue + Athena
-- [ ] Módulo 13 - Redshift + Spectrum
-- [ ] Módulo 14 - Apache Airflow
-- [ ] Módulo 15 - Terraform e Cloudformation
+- [x] Módulo 08 - Introdução à AWS
+- [x] Módulo 09 - Integração Contínua
+- [x] Módulo 10 - Data Lakes
+- [x] Módulo 11 - AWS Glue + Athena
+- [ ] Módulo 12 - Redshift + Spectrum
+- [ ] Módulo 13 - Apache Airflow
+- [ ] Módulo 14 - Terraform e Cloudformation
